@@ -10,7 +10,7 @@ Chatbot instantly scrapes your or anyone else's website. Learns it and provides 
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
