@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Intelligent Chatbot Web Scrapping   - Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
 Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Intelligent Chatbot Web Scrapping  ** - an example for
 Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
