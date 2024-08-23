@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Intelligent Chatbot Web Scrapping   - Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
-Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
+# Intelligent Chatbot Web Scrapping   - print(ql.append_log_file(solution_name))
+print(ql.append_log_file(solution_name))
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Intelligent Chatbot Web Scrapping  ** - an example for your projects
 
-Chatbot instantly scrapes your or anyone else's website. Learns it and provides a conversation about it. Use this to digitally engage your clients.
+print(ql.append_log_file(solution_name))
 
 ![Image image_filename](sample.png)
 
