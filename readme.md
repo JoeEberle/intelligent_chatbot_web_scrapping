@@ -39,11 +39,8 @@ To get started with the **Intelligent Chatbot Web Scrapping  ** solution reposit
  ![additional_image](joe_logo.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
