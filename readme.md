@@ -4,21 +4,11 @@
 
 ## print(ql.append_log_file(solution_name))
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Intelligent Chatbot Web Scrapping  ** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Intelligent Chatbot Web Scrapping  ** 
 
 print(ql.append_log_file(solution_name))
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
